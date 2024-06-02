@@ -1,0 +1,22 @@
+type Proposol = 
+ record {
+   Amount: nat;
+   decsription: text;
+   destination: text;
+   password: text;
+   title: text;
+ };
+type ClubInfo = 
+ record {
+   description: text;
+   title: text;
+ };
+service : {
+  ClubId: () -> (nat) query;
+  GetClub: (nat) -> (opt ClubInfo) query;
+  GetProposol: (nat) -> (opt Proposol) query;
+  ProposalId: () -> (nat) query;
+  createClub: (ClubInfo) -> ();
+  createProposal: (Proposol) -> ();
+  whoami: () -> (principal) query;
+}

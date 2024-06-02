@@ -1,0 +1,34 @@
+type Proposol = 
+ record {
+   Amount: nat;
+   decsription: text;
+   destination: text;
+   password: text;
+   title: text;
+ };
+type ClubInfo = 
+ record {
+   description: text;
+   title: text;
+ };
+service : {
+  ClubId: () -> (nat) query;
+  GetBalance: () -> (nat) query;
+  GetClub: (nat) -> (opt ClubInfo) query;
+  GetMemberCount: () -> (nat) query;
+  GetNoVote: () -> (nat) query;
+  GetProposalCount: () -> (nat) query;
+  GetProposol: (nat) -> (opt Proposol) query;
+  GetStatus: (nat) -> (opt text) query;
+  GetYesVote: () -> (nat) query;
+  NOVote: () -> ();
+  ProposalId: () -> (nat) query;
+  SetBalance: (nat) -> ();
+  SetMemberCount: () -> ();
+  SetProposalCount: () -> ();
+  SetStatus: (nat, text) -> ();
+  YesVote: () -> ();
+  createClub: (ClubInfo) -> ();
+  createProposal: (Proposol) -> ();
+  whoami: () -> (principal) query;
+}
