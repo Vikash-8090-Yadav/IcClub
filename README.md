@@ -28,14 +28,14 @@ IC CLUB allows you to manage investment clubs, and to spread access to participa
  
 ## 💡Introduction
 
-IC CLUB stands as a pioneering platform, revolutionizing the landscape of investment management. At its core, IC CLUB is designed to empower users by providing a decentralized, agile, and bureaucracy-free environment for managing investment clubs. The platform leverages innovative technologies to ensure transparency, security, and efficiency in investment processes.
+Investing in promising projects and startups has long been hindered by bureaucracy and high entry barriers, making it difficult for many potential investors. The private investment fund market, valued at $4.6 trillion in 2020, continues to grow, yet remains largely inaccessible to smaller investors.
 
-One of the standout features of IC CLUB is its commitment to decentralization. Through the use of blockchain technology, the platform ensures that investment club data is transparent, secure, and immutable. This decentralized approach eliminates the need for intermediaries, putting control directly into the hands of the users.'
+IC Club aims to change this by leveraging the Internet Computer Protocol (ICP) and Decentralized Autonomous Organizations (DAOs). Our platform allows anyone to invest in projects from anywhere in the world with minimal requirements. Through blockchain technology, IC Club facilitates the creation of investment clubs based on shared interests, ensuring transparency and security.
+
+Join us at IC Club to democratize investment and create a more inclusive financial ecosystem.
  
 ## 💡Our Vision
-At IC CLUB, we envision a future where investment management is seamlessly woven into the fabric of decentralization, empowerment, and innovation. Our vision is to transform the traditional landscape of investment clubs by pioneering a platform that empowers individuals, nurtures financial autonomy, and redefines the norms of transparency and security.
-
-In this future, IC CLUB stands as a beacon of decentralization, embracing the power of blockchain technology to forge a new era in investment management. We see a world where users have direct control over their financial endeavors, free from the constraints of bureaucracy and intermediaries. The platform is designed to be agile, responsive, and tailored to the needs of those who seek a more transparent, secure, and efficient investment experience.
+IC club  allows you to manage investment clubs, and to spread access to participate in investment funds to anyone, decentralized, agile, and without bureaucracy.Implementing a comprehensive on-chain governance system allows DataDAO members to create and vote on proposals, covering aspects such as member management, dataset storage and distribution, and token distribution. This ensures a democratic and transparent decision-making process within the DAO.
 
 
 
