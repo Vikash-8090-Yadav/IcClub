@@ -115,11 +115,11 @@ In the face of systemic challenges within the traditional private investment fun
 To run the Edu.dev locally, follow these steps:
 1. Clone the repository:
  ```bash
- git clone  https://github.com/Vikash-8090-Yadav/IC-CLUB.git
+ git clone  https://github.com/Vikash-8090-Yadav/IcClub.git
  ```
  2. Navigate to the project directory:
 ```bash
-cd  IC-CLUB
+cd  IcClub
 ```
 3. Node Re-versioning
 
