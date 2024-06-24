@@ -6,7 +6,14 @@
 
 IC CLUB allows you to manage investment clubs, and to spread access to participate in investment funds to anyone, decentralized, agile, and without bureaucracy
 
+## Presentation: https://www.canva.com/design/DAGCxGq-jw8/g15VJ9h4MGvkW-FIB7AyNQ/edit?utm_content=DAGCxGq-jw8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+## Demo Video: https://youtu.be/z4vAa_jubRY
+
+## ICP Canister: https://h7t4t-tyaaa-aaaap-abqka-cai.icp0.io
+
 <br>
+
 
   
 ## 📋 Table of Contents
